@@ -1,4 +1,0 @@
-#============= sysinit ==============
-allow sysinit self:capability dac_override;
-allow sysinit userinit_exec:file { getattr execute };
-
