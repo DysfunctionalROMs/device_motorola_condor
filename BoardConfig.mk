@@ -43,7 +43,7 @@ TARGET_NO_BOOTLOADER := true
 BOARD_KERNEL_SEPARATED_DT := true
 BOARD_CUSTOM_BOOTIMG_MK := device/motorola/condor/mkbootimg.mk
 TARGET_KERNEL_SOURCE := kernel/motorola/msm8610
-TARGET_KERNEL_CONFIG := cm_condor_defconfig
+TARGET_KERNEL_CONFIG := ak_condor_defconfig
 BOARD_KERNEL_BASE := 0x00000000
 BOARD_KERNEL_PAGESIZE := 2048
 

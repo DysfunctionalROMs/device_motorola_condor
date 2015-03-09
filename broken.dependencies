@@ -25,9 +25,9 @@
    },
    {
     "remote":      "github",
-    "repository":  "percy-g2/android_kernel_motorola_msm8610",
+    "repository":  "AK-Kernel/AK-Condor",
     "target_path": "kernel/motorola/msm8610",
-    "branch":      "cm-12.0"
+    "branch":      "lp"
    },
    {
     "remote":      "github",
